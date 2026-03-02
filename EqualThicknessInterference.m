@@ -1,3 +1,4 @@
+% Simulate equal-thickness interference fringes
 %% 等厚干涉
 clear;
 %% 参数设定

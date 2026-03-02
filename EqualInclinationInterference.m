@@ -1,3 +1,4 @@
+% Simulate equal-inclination interference fringes
 %% 等倾干涉
 clear;
 %% 参数设定

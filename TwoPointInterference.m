@@ -1,3 +1,4 @@
+% Simulate two-point interference intensity pattern
 %% 双孔干涉 （P334） 
 clear;
 %% 参数设定

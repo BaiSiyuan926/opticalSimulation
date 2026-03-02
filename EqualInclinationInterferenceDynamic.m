@@ -1,3 +1,4 @@
+% Animate equal-inclination interference as thickness varies
 %% 等倾干涉
 clear;
 %% 参数设定

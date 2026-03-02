@@ -1,3 +1,4 @@
+% Simulate Young's double-slit interference intensity
 tic;
 %% ÑîÊÏË«·ì¸ÉÉæ 
 clear;

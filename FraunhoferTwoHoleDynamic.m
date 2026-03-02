@@ -1,3 +1,4 @@
+% Animate Fraunhofer diffraction from two circular apertures
 clear;
 delta = 0.0000001;
 [X1,Y1] = meshgrid(-0.1+delta : 0.001 : 0.1+delta ,-0.1+delta : 0.001 : 0.1+delta );
