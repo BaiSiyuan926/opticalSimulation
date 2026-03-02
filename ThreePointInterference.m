@@ -1,3 +1,4 @@
+% Simulate three-point interference intensity pattern
 %% Èı¿×¸ÉÉæ
 clear;
 

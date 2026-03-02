@@ -1,3 +1,4 @@
+% Simulate Fraunhofer diffraction from a square aperture
 clear;
 delta = 0.0000001;
 [X1,Y1] = meshgrid(-0.005+delta : 0.0001 : 0.005+delta ,-0.005+delta : 0.0001 : 0.005+delta );

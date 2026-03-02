@@ -1,3 +1,4 @@
+% Simulate five-point interference intensity pattern
 %% Îå¿×¸ÉÉæ
 clear;tic;
 

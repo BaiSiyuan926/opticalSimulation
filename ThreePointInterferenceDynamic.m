@@ -1,3 +1,4 @@
+% Animate three-point interference as radius varies
 %% Èı¿×¸ÉÉæ
 clear;
 
